@@ -14,6 +14,8 @@ public class pushUptarget {
             i++;
         }
 
+        System.out.println("Well done! ");
+
 
     }
 }
